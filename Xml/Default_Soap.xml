@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Soaps>
+  <part>
+
+    <bpWC text="WC injury details _______ (Mechanism of injury to involved body parts / Patient is ___not working)" />
+    
+    <bpLShoulder text="Patient has _______ pain, ___/10.  Patient has _____ pain radiating down the ______ with numbness/ tingling/ weakness.  _______ pain increases with _____ and improves with ______.  "/>
+    <bpRShoulder text="Patient has _______ pain, ___/10.  Patient has _____ pain radiating down the ______ with numbness/ tingling/ weakness.  _______ pain increases with _____ and improves with ______.  "/>
+
+    <bpLHip text="Patient has _______ pain, ___/10.  Patient has _____ pain radiating down the ______ with numbness/ tingling/ weakness.  _______ pain increases with _____ and improves with ______.  "/>
+    <bpRHip text="Patient has _______ pain, ___/10.  Patient has _____ pain radiating down the ______ with numbness/ tingling/ weakness.  _______ pain increases with _____ and improves with ______.  "/>
+
+    <bpLKnee text="Patient has _______ pain, ___/10.  Patient has _____ pain radiating down the ______ with numbness/ tingling/ weakness.  _______ pain increases with _____ and improves with ______.  "/>
+    <bpRKnee text="Patient has _______ pain, ___/10.  Patient has _____ pain radiating down the ______ with numbness/ tingling/ weakness.  _______ pain increases with _____ and improves with ______.  "/>
+
+    <bpLAnkleFoot text="Patient has _______ pain, ___/10.  Patient has _____ pain radiating down the ______ with numbness/ tingling/ weakness.  _______ pain increases with _____ and improves with ______.  "/>
+    <bpRAnkleFoot text="Patient has _______ pain, ___/10.  Patient has _____ pain radiating down the ______ with numbness/ tingling/ weakness.  _______ pain increases with _____ and improves with ______.  "/>
+
+  </part>
+  <!--Treatment End-->
+</Soaps>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TreatMents>
+  <TreatMent  isChecked="False" name="Physical therapy:  Physical therapy evaluation and treatment 3 times a week for 4 weeks for cervical radiculopathy and lumbar radiculopathy." />
+  <TreatMent  isChecked="True" name="Recommend to continue physical therapy/chiropractic care." />
+  <TreatMent  isChecked="True" name="Recommend evaluation and treatment of" />
+  <TreatMent  isChecked="True" name="Request physical/chiropractic therapy." />
+  <TreatMent  isChecked="False" name="" />
+  <TreatMent  isChecked="False" name="" />
+  <TreatMent  isChecked="False" name="" />
+  <TreatMent  isChecked="False" name="" />
+  <TreatMent  isChecked="False" name="" />
+  <TreatMent  isChecked="False" name="" />
+
+</TreatMents>
